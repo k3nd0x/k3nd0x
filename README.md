@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm k3nd0x</h1>
 <h3 align="center">A passionate sysadmin and fullstack-developer from Germany</h3>
 <p align="center">
-- 🔭 I’m currently working on [piglet](https://github.com/k3nd0x/piglet)
+- 🔭 I’m currently working on [piglet]
 <p align="center">
 - 🌱 I’m currently learning **Python Flask, FastAPI**
 <p align="center">
