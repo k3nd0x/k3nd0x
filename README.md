@@ -2,9 +2,9 @@
 <h3 align="center">A passionate sysadmin and fullstack-developer from Germany</h3>
 <p align="center">
 - 🔭 I’m currently working on [piglet](https://github.com/k3nd0x/piglet)
-
+<p align="center">
 - 🌱 I’m currently learning **Python Flask, FastAPI**
-
+<p align="center">
 - 💬 Ask me about **Linux System Administration, icinga2,**
 </p>
 <h3 align="center">Languages and Tools:</h3>
