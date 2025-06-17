@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on diffenrent monitoring plugins for icinga2 https://github.com/k3nd0x/check_bareos
 
-- 🌱 I’m currently learning **Javascript, Python Celery**
+- 🌱 I’m currently learning **Ansible**
 
 - 💬 Ask me about **Python Flask, FastAPI, Icinga2, Grafana, Docker, Linux, Bootstrap**
 
