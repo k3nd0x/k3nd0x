@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm k3n0dx</h1>
 <h3>A passionate sysadmin, monitoring enthusiast and full stack developer from germany</h3>
 
-- 🔭 I’m currently working on [Piglet 🐷](https://github.com/k3nd0x/piglet)
+- 🔭 I’m currently working on diffenrent monitoring plugins for icinga2 https://github.com/k3nd0x/check_bareos
 
 - 🌱 I’m currently learning **Javascript, Python Celery**
 
